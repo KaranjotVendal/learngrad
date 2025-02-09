@@ -8,7 +8,7 @@
 
 ---
 
-This project is inspired by libraries like [Micrograd](https://github.com/karpathy/micrograd), [smolgrad](https://github.com/smolorg/smolgrad), and [magnetron](https://github.com/MarioSieg/magnetron) and aims to demystify the core concepts of machine learning frameworks:
+This project is inspired by libraries like [Micrograd](https://github.com/karpathy/micrograd), [Tinygrad](https://github.com/tinygrad/tinygrad), [smolgrad](https://github.com/smolorg/smolgrad), and [magnetron](https://github.com/MarioSieg/magnetron) and aims to demystify the core concepts of machine learning frameworks:
 - **Automatic Differentiation**: How gradients are computed efficiently using computational graphs.
 - **Backpropagation**: The mechanics of training neural networks.
 - **Optimization**: Implementing basic optimizers like SGD and Adam.
